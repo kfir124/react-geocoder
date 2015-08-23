@@ -2,7 +2,7 @@
   "name": "react-geocoder",
   "version": "2.4.0",
   "description": "a mapbox geocoder component",
-  "main": "index.js",
+  "main": "index.babel.js",
   "scripts": {
     "test": "tape test.js",
     "start": "watchify example/site.js -o example/bundle.js & st -nc"
